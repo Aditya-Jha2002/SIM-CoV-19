@@ -3,7 +3,7 @@ Base_Dir = 'input/images/'
 class CFG():
     fold_num = 5
     seed = 48
-    model_arch = 'tf_efficientnet_b4_ns'
+    model_arch = 'tf_efficientnet_b7_ns'
     img_size=  512
     epochs = 10
     train_bs = 16
